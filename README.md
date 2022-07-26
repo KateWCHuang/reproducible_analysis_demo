@@ -27,7 +27,7 @@
 - install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git): version used for this demo (version 2.24.3)
 
 ```bash
-$ git clone https://github.com/GITHUB_USERNAME/reproducible_analysis_demo.git
+$ git clone https://github.com/KateWCHuang/reproducible_analysis_demo.git
 $ cd reproducible_analysis_demo
 $ make build
 $ make run
@@ -90,6 +90,6 @@ Please feel free to make a pull request if you would like to modify anything.
 
 ## Copyright and license
 
-Copyright 2021 GITHUB_ACCOUNT_NAME Inc.
+Copyright 2021 KateWCHuang Inc.
 
 Code released under the [MIT license](https://github.com/GITHUB_USERNAME/reproducible_analysis_demo/blob/main/LICENSE).
